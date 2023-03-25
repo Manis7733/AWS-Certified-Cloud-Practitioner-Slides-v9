@@ -79,4 +79,40 @@ Problems solved by the cloud
 	Elasticity
 	High-Availability and Fault-tolerance
 	Agility
-	
+
+Types of Cloud Computing
+	Infrastructre as a Services (Iaas)
+		Provide building blocks for cloud IT
+		Provides networking, Computer, Data storage space
+		Highest level of Flexibilty
+		Easy Parallel with traditional on premsies IT
+	Platform as a Service (PaaS)
+		Remove the need for your organtization to manage the uderlying infrastructure
+		Focus on the deployment and management of your applictions
+	Software as a Services(SaaS)
+		Completed prodcut that is run and ma naged by the services provider 
+
+On-premises we manage : 	Application,Data,Runtime,Middleware,O/S,virtualization,servers,storage,Networking
+
+Iaas we manages :
+	Application, Data, runtime, Middleware, O/S
+Iaas other's manage :
+	Virtualization. Servers, Storage, Networking
+
+PaaS we manage:
+	Application, Data
+PaaS other manage:
+	Runtime, Middleware, O/S, virtualization, Servers, Storage, Networking	
+
+SaaS everything is managed by others: 
+
+Example of Cloud Computing Types
+	IaaS:
+		Amazon EC2
+		GCp, Azure, Rackspace, Digital Ocean, Linode
+	PaaS:
+		Elastic Beanstalk
+		Heroku, Google App Engine, Windows Azure
+	SaaS:
+		Many AWS services
+		Google Apps, Dropbox, Zoom
